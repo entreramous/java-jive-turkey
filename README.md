@@ -1,2 +1,2 @@
 # java-jive-turkey
-Java Learning
+Java Learning with treehouse 
